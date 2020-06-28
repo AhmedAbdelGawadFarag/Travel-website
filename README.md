@@ -1,2 +1,2 @@
 # Travel-Galaxy
-##  FCIS-ASU Summer project
+##  FCIS-ASU first year Summer project
